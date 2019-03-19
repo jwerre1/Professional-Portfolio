@@ -45,3 +45,11 @@ body {
 /* .card-title {
     font-size: 90%;
 } */
+
+.card-body {
+    padding: 10px;
+}
+
+.card {
+    border: 0px;
+}
