@@ -1,0 +1,47 @@
+body {
+    /*photo found on pexels.com - CC0 License, free for personal and commercial use without attribution */
+    /*makes background photo fit page, correctly positioned - found on Stack Overflow*/
+    background: url(images/deskBackground.jpg) no-repeat center center fixed;
+    background-color: lightslategray;
+    background-size: cover;                    
+}
+
+.customHeaderSize {
+    font-size: 30px
+}
+
+.customNavFont {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+
+.customNavLink {
+    font-size: 22px;
+}
+
+
+/*gets rid of border around headshot image - found on Stack Overflow*/
+.img-thumbnail {
+    border: 0;
+    background: transparent;
+}
+
+.customSecHeader {
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+}
+
+.customBodyFont {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#customColOne {
+    background: #ffffff
+}
+
+.footerBackground {
+    background-color: lightslategray;
+}
+
+/* .card-title {
+    font-size: 90%;
+} */
