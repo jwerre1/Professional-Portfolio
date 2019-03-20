@@ -49,3 +49,7 @@ body {
 .card-body {
     padding: 10px;
 }
+
+.largerFont {
+    font-size: 20px;
+}
