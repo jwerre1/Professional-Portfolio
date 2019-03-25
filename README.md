@@ -5,7 +5,9 @@ This set of webpages represent a portfolio for myself, featuring a brief profess
 
 The "About Me" page features my headshot and professional statement.
 
-The "Portfolio" page presents four of my projects. All but "Food For Thought" were done independently - "Food For Thought" was a group project. By clicking on the project's picture or name, a separate tabe will appear with the deployed project. By clicking any of the "Code" links, you will be brought to the appropriate Github page.
+The "Portfolio" page presents five of my projects. All but "Food For Thought" were done independently - "Food For Thought" was a group project. By clicking on the project's picture or name, a separate tabe will appear with the deployed project. By clicking any of the "Code" links, you will be brought to the appropriate Github page.
+
+Please note that "LIRI Node App" cannot be opened in a browser, meaning only the code link is available. 
 
 The "Contact" page features my contact infromation, as well as links to my resume, Linkedin profile, and Github profile. 
 
